@@ -71,5 +71,6 @@ Manager-Inventory
 
 Cashier-Home
 
-![Uploading Screenshot 2024-08-12 at 13.37.38.png…]()
+<img width="895" alt="Screenshot 2024-08-12 at 13 37 38" src="https://github.com/user-attachments/assets/ad49e791-823d-4442-ab44-c9ae6480d0ab">
+
 
